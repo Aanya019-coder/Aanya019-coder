@@ -55,9 +55,6 @@ I iterate fast, collaborate deeply, and ship quality products. I reduce turnarou
 ![](https://nirzak-streak-stats.vercel.app/?user=Aanya019-coder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanya019-coder&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aanya019-coder&limit=6&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 # 💻 LeetCode Stats:

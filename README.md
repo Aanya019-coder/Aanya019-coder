@@ -44,6 +44,13 @@ I iterate fast, collaborate deeply, and ship quality products. I reduce turnarou
 ---
 
 # 📊 GitHub Stats:
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aanya019-coder&theme=react-dark&hide_border=false&area=true)
+
+**328 contributions in the last year** — Consistent coding and project development across multiple repositories
+
+---
 ![](https://github-readme-stats.vercel.app/api?username=Aanya019-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aanya019-coder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanya019-coder&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -53,9 +60,17 @@ I iterate fast, collaborate deeply, and ship quality products. I reduce turnarou
 
 ---
 
+# 💻 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aanya_019?theme=dark&font=Noto%20Sans&ext=heatmap)
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aanya_019/)
+
+---
+
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aanyachaudhary)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanyac38@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aanya_019/)
 
 ---
 

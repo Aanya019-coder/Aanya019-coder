@@ -50,13 +50,6 @@ I iterate fast, collaborate deeply, and ship quality products. I reduce turnarou
 
 **328 contributions in the last year** — Consistent coding and project development across multiple repositories
 
----
-![](https://github-readme-stats.vercel.app/api?username=Aanya019-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aanya019-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanya019-coder&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
----
-
 # 💻 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aanya_019?theme=dark&font=Noto%20Sans&ext=heatmap)
 
